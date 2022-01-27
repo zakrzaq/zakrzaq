@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zakrzaq
 - 👀 I’m interested in frontend & backend development
-- 🌱 I’m currently learning JavaScript, React
+- 🌱 I’m currently learning React, Node.js
 - 💞️ I’m looking to collaborate on anything new and exciting
 - 📫 How to reach me on Discord: Jakub Zakrzewski#7691
 
